@@ -20,7 +20,7 @@ sudo apt update && sudo apt install gcc -y
 
 Para compilar o código C, execute o seguinte comando no terminal:
 
-gcc -o cracker cracker.c
+gcc -o cracker ex.c
 
 Isso irá gerar um executável chamado cracker.
 
